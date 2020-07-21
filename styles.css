@@ -5,18 +5,19 @@
 }*/
 
 body {
-  background-color: #e8fffd; 
+  background-color: #edfcfc; 
   font-family: "Verdana";
 }
 
 .heading {
-  background-color: #8ad4ff;
-  padding: 50px;
+  background-color: #2dc2b3;
+  padding: 10px;
+  border-radius: 5%;
 }
 
 
 h1.header {
-  color: #0406b0;
+  color: white;
   text-align: center;
 }
 
