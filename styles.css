@@ -26,7 +26,9 @@ p {
   color: #02024d;
 }
 
-
+.container {
+  display: flex;
+}
 
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
