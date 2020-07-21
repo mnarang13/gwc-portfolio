@@ -1,6 +1,11 @@
 /*TODO: Add a background color or image to your website*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
-  background-color: #bffff9; 
+  background-color: #e8fffd; 
   font-family: "Verdana";
 }
 
@@ -16,6 +21,12 @@ h1.header {
   margin-right: auto;
   border-radius: 10px;
 }
+
+p {
+  color: #02024d;
+}
+
+
 
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
