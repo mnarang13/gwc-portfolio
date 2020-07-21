@@ -9,6 +9,11 @@ body {
   font-family: "Verdana";
 }
 
+.heading {
+  background-color: #8ad4ff;
+  padding: 50px;
+}
+
 
 h1.header {
   color: #0406b0;
@@ -25,6 +30,10 @@ h1.header {
 p {
   color: #02024d;
   margin: 75px;
+}
+
+.info {
+  text-align: center;
 }
 
 .container {
