@@ -1,11 +1,20 @@
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #bffff9; 
+  background-color: #bffff9; 
+  font-family: "Verdana";
 }
 
 
-h1 {
-  color: navy;
+h1.header {
+  color: #0406b0;
+  text-align: center;
+}
+
+#maya-tikka {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
 }
 
 
