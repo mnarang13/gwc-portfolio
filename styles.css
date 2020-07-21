@@ -10,9 +10,10 @@ body {
 }
 
 .heading {
-  background-color: #2dc2b3;
+  /*background-color: #2dc2b3;*/
+  background-image: linear-gradient(#edfcfc, #2dc2b3);
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 10px 10px 0px 0px;
   margin-bottom: 0px;
 }
 
@@ -30,12 +31,15 @@ h1.header {
 }
 
 p {
-  color: #02024d;
-  margin: 75px;
+  color: #444;
+  padding: 5px;
 }
 
 .info {
   text-align: center;
+  border-style: solid;
+  border-width: 5px;
+  margin: 2% 5%;
 }
 
 .container {
@@ -45,22 +49,19 @@ p {
 
 /*Nav Bar*/
 ul {
-  /*list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #444;*/
   list-style-type: none;
   background-color: #444;
 }
 
 li {
   float: left;
-  /*display: inline;*/
 }
 
 li a {
-  /*display: block;*/
+  display: block;
   padding: 14px 16px;
   color: white;
   text-decoration: none;
