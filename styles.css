@@ -21,6 +21,8 @@ body {
 h1.header {
   color: white;
   text-align: center;
+  font-size: 40px;
+  padding: 5px;
 }
 
 #maya-tikka {
@@ -42,6 +44,7 @@ p {
   margin: 2% 5%;
   font-style: italic;
   padding: 10px 20px;
+  font-size: 20px;
 }
 
 .container {
