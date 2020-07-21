@@ -1,4 +1,4 @@
-/*TODO: Add a background color or image to your website*/
+
 * {
   margin: 0px;
   padding: 0px;
@@ -75,8 +75,9 @@ h3 {
   width: 500px;
 }
 
-.GWC {
+.blog-picture {
   margin: 20px;
+  
 }
 
 .date {
