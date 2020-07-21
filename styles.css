@@ -1,8 +1,8 @@
 /*TODO: Add a background color or image to your website*/
-* {
+/* {
   margin: 0px;
   padding: 0px;
-}
+}*/
 
 body {
   background-color: #e8fffd; 
@@ -19,15 +19,17 @@ h1.header {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 10px;
+  border-radius: 50%;
 }
 
 p {
   color: #02024d;
+  margin: 75px;
 }
 
 .container {
   display: flex;
+  flex-flow: column wrap;
 }
 
 
