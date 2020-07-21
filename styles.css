@@ -1,8 +1,8 @@
 /*TODO: Add a background color or image to your website*/
-/* {
+* {
   margin: 0px;
   padding: 0px;
-}*/
+}
 
 body {
   background-color: #edfcfc; 
@@ -32,19 +32,32 @@ h1.header {
 
 p {
   color: #444;
-  padding: 5px;
 }
 
 .info {
   text-align: center;
-  border-style: solid;
-  border-width: 5px;
+  border-style: dotted;
+  border-width: 3px;
+  border-color: #888;
   margin: 2% 5%;
+  font-style: italic;
+  padding: 10px 20px;
 }
 
 .container {
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+h2 {
+  color: #222;
+  padding: 10px;
+}
+
+h4 {
+  color: #444;
+  padding: 10px;
 }
 
 /*Nav Bar*/
