@@ -53,12 +53,17 @@ p {
 h2 {
   color: #222;
   padding: 10px;
+  margin: 10px;
 }
 
 h4 {
   color: #444;
   padding: 10px;
 }
+
+.video{
+  margin-bottom: 20px;
+} 
 
 /*Nav Bar*/
 ul {
