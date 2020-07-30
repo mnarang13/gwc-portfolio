@@ -53,6 +53,12 @@ p {
   justify-content: space-around;
 }
 
+.portfolio-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
 h2 {
   color: #222;
   padding: 10px;
